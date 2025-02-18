@@ -1,7 +1,6 @@
 "use client"
 
 import * as React from "react"
-import Image from "next/image";
 import { FormProvider, useForm } from "react-hook-form"
 import { motion, AnimatePresence } from "framer-motion"
 import { useForm as useFormspree } from "@formspree/react"
